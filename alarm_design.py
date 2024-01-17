@@ -103,7 +103,7 @@ class Ui_MainWindow(object):
         self.lineEdit = QtWidgets.QLineEdit(self.time)
         self.lineEdit.setMaximumSize(QtCore.QSize(40, 40))
         self.lineEdit.setStyleSheet("background-color:white;\n"
-"font-size:22px;")
+"font-size:22px;" "color:black;")
         self.lineEdit.setObjectName("lineEdit")
         self.horizontalLayout.addWidget(self.lineEdit)
         self.label_4 = QtWidgets.QLabel(self.time)
@@ -113,7 +113,7 @@ class Ui_MainWindow(object):
         self.horizontalLayout.addWidget(self.label_4)
         self.lineEdit_2 = QtWidgets.QLineEdit(self.time)
         self.lineEdit_2.setMaximumSize(QtCore.QSize(40, 40))
-        self.lineEdit_2.setStyleSheet("background-color:white;\n"
+        self.lineEdit_2.setStyleSheet("background-color:white;\n" "color:black;\n"
 "font-size:22px;")
         self.lineEdit_2.setObjectName("lineEdit_2")
         self.horizontalLayout.addWidget(self.lineEdit_2)

@@ -33,3 +33,11 @@ python3 alarm.py
 
 # App Screenshots
 
+<b>Web and mobile UI Design</b>
+<img src="./images/Alarm 1.png">
+
+<b>Notification on the screen</b>
+<img src="./images/Alarmy2.png">
+
+<b>After alarm completed, it is saying to set the new alarm</b>
+<img src="./images/Alarmy3.png">
