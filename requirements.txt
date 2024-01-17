@@ -1,0 +1,7 @@
+art==6.1
+mytimer==1.1
+pydub==0.25.1
+PyQt5==5.15.10
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.13.0
+pyuic5-tool==0.0.1
